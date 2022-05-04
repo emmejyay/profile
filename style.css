@@ -103,4 +103,5 @@ ul {
 
 .btn-round {
   border-radius: 4px;
+  transition: .2s;
 }
