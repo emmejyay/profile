@@ -97,6 +97,10 @@ ul {
   font-size: 30px;
 }
 
+.list-inline > li > a:hover {
+  color: #066163;
+}
+
 .btn-round {
   border-radius: 4px;
 }
