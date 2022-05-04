@@ -56,6 +56,12 @@ ul {
  list-style-type: none;
 }
 
+.container {
+  text-align: center;
+  margin: 40px auto;
+  width: 700px;
+}
+
 .card-white {
   background-color: white;
   padding: 40px;
